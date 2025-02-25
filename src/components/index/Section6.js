@@ -26,11 +26,11 @@ function Section6() {
             </div>
             <div className='border-[1px] border-[#999999] rounded-[10px] ps-[24px] pe-[46px] py-[26px]'>
                 <div className='flex justify-between items-center '>
-                    <img src="/assets/airplane.svg" alt="airplane" />
-                    <span className='text-[16px] text-black font-semibold'>67 Km</span>
+                    <img src="/assets/train.svg" alt="train" />
+                    <span className='text-[16px] text-black font-semibold'>35 Km</span>
                 </div>
                 <p className='text-[16px] text-[#333333] pt-3'>From</p>
-                <p className='text-[16px] text-[#333333]'> Cochin International Airport</p>
+                <p className='text-[16px] text-[#333333]'> Kottayam Railway Station</p>
 
             </div>
         </div>
