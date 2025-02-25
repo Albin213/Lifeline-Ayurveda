@@ -73,7 +73,7 @@ function Navbar() {
       {/* Mobile Drawer Navigation */}
       <div
         className={`fixed top-0 right-0 w-[75%] sm:w-[60%] bg-[#ffffff] h-full p-6 shadow-lg transform transition-transform duration-300 ease-in-out ${
-          drawerOpen ? 'translate-x-0' : 'translate-x-full'
+          drawerOpen ? 'translate-x-0  overflow-y-scroll' : 'translate-x-full'
         } z-40`}
       >
         <ul className="mt-20 space-y-5 text-[18px] font-normal text-[#333333]">
