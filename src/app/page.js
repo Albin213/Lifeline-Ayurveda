@@ -3,6 +3,8 @@ import Section2 from '@/components/index/Section2'
 import Section3 from '@/components/index/Section3'
 import Section4 from '@/components/index/Section4'
 import Section5 from '@/components/index/Section5'
+import Section6 from '@/components/index/Section6'
+
 
 import React from 'react'
 
@@ -14,6 +16,7 @@ function page() {
     <Section3/>
     <Section4/>
     <Section5/>
+    <Section6/> 
     </div>
   )
 }
