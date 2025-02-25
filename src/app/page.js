@@ -12,11 +12,13 @@ function page() {
   return (
     <div>
       <Section1/>
+    <div className='max-w-[1700px] mx-auto'>
     <Section2/>
     <Section3/>
     <Section4/>
     <Section5/>
     <Section6/> 
+    </div>
     </div>
   )
 }
